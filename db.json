@@ -1,0 +1,164 @@
+{
+  "smartPhones": [
+    {
+      "type":"Telefon",
+      "brand": "Samsung",
+      "name": "Samsung Galaxy A32 128 Gb Akıllı Telefon Siyah",
+      "price": 4.999 ,
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_83406569/mobile_786_587_png/SAMSUNG-Galaxy-A32-128-GB-Ak%C4%B1ll%C4%B1-Telefon-Siyah"
+    },
+    {
+      "type":"Telefon",
+      "brand": "General Mobile",
+      "name": "General Mobile GM 22 Tek Sim Ocean Siyah 32 Gb Akıllı Telefon",
+      "price": 2.499 ,
+      "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/general-mobile/thumb/132109-1_large.jpg"
+    },
+    {
+      "type":"Telefon",
+      "brand": "Apple",
+      "name": "iPhone 13 128 Gb Siyah",
+      "price": 22.499 ,
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-midnight-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1645572315913"
+    },
+    {
+      "type":"Telefon",
+      "brand": "Xiaomi ",
+      "name": "Xiaomi Redmi 10 128 Gb Akıllı Telefon Mavi",
+      "price": 4.999,
+      "image": "https://cdn.evkur.com.tr/c/Product/thumbs/redmi-10-beyaz_m6r5de_1920_r4k9ra_500.jpg"
+    },
+    {
+      "type":"Telefon",
+      "brand": "Samsung",
+      "name": "SAMSUNG GALAXY S22 128 GB AKILLI TELEFON YEŞİL",
+      "price": 14.449 ,
+      "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/132703-1_large.jpg"
+    },
+    {
+      "type":"Telefon",
+      "brand": "Apple",
+      "name": "iPhone 11 128 Gb Akıllı Telefon Siyah",
+      "price": 15.499,
+      "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/113138-2_large.jpg"
+    }
+  ],
+  "computers": [
+    {
+      "type":"Bilgisayar",
+      "brand": "Huawei",
+      "name": "Huawei Matebook D15 11.Nesil Core i5 1135G7-8Gb-256Gb Ssd-15.6inc-W11",
+      "price": 8.799,
+      "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/huawei/thumb/132694-1_large.jpg"
+    },
+    {
+      "type":"Bilgisayar",
+      "brand": "Asus ",
+      "name": "Asus X515fa 10.Nesil Core i3 10110U-4Gb-256Gb Ssd-15.6inc-W11",
+      "price": 5.649,
+      "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/asus/thumb/1-133481-2_large.jpg"
+    },
+    {
+      "type":"Bilgisayar",
+      "brand": "Lenovo",
+      "name": "Lenovo Ideapad 3 10.Nesil Core i5 10210U-8Gb-512Gb Ssd-15.6inc-W11",
+      "price": 8.999,
+      "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/lenovo/thumb/1-133477_large.jpg"
+    },
+    {
+      "type":"Bilgisayar",
+      "brand": "Msi",
+      "name": "Msi Creator Z17 12.Nesil Core i7 12700H-32Gb-1Tb Ssd-17inc-Rtx3070Ti 8Gb-W11 Pro",
+      "price": 80.585,
+      "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/msi/thumb/132928-1_large.jpg"
+    },
+    {
+      "type":"Bilgisayar",
+      "brand": "Apple",
+      "name": "Macbook Air Z12AM18512-TQ6 M1 8Gb-512Gb Ssd-Retina-13.3inc-Gold",
+      "price": 24.999,
+      "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/131834-1_large.jpg"
+    }
+  ],
+  "accessories": [
+  {
+    "type":"Aksesuar",
+    "brand": "Samsung",
+    "name": "SAMSUNG GALAXY S22 SİLİKON KILIF - KIRMIZI",
+    "price": 299,
+    "image": "https://n11scdn.akamaized.net/a1/1024/elektronik/cep-telefonu-kiliflari/samsung-galaxy-s22-silikon-kilif-kirmizi-ef-ps901tpegww__0737159260972321.jpeg"
+  },
+  {
+    "type":"Aksesuar",
+    "brand": "HP",
+    "name": "HP 15.6'' TOP LOAD NOTEBOOK ÇANTASI- (GRİ)",
+    "price": 189,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/v2-76262-2_large.jpg"
+  },
+  {
+    "type":"Aksesuar",
+    "brand": "Apple",
+    "name": "APPLE 5W USB GÜÇ ADAPTÖRÜ",
+    "price": 269,
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MD813?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1532627484267"
+  },{
+    "type":"Aksesuar",
+    "brand": "Philips",
+    "name": "PHILIPS DLP1910NB/62 10.000 mAh POWERBANK 2 ÇIKIŞ- SİYAH",
+    "price": 199,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/121953-1_large.jpg"
+  },{
+    "type":"Aksesuar",
+    "brand": "Dell",
+    "name": "S-LİNK SL-NBA55 19.5V 4.62A 7.4*5.0 DELL INSPİRON NOTEBOOK ADAPTÖR",
+    "price": 300,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/s-link/thumb/1-22_large.jpg"
+  }
+],
+  "smartObjects": [
+  {
+    "type":"Akıllı Nesneler",
+    "brand": "Huawei",
+    "name": "HUAWEI BAND 6 FARA-B19 SAKURA PEMBE",
+    "price": 699,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/huawei/thumb/121893-1_large.jpg"
+  },
+  {
+    "type":"Akıllı Nesneler",
+    "brand": "Apple",
+    "name": "Apple Watch Series 7 GPS, 45mm Blue Aluminium Case with Abyss Blue Sport Band",
+    "price": 7.999,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/130609-2_large.jpg"
+  },
+  {
+    "type":"Akıllı Nesneler",
+    "brand": "Samsung",
+    "name": "SAMSUNG GALAXY FİT 2 SİYAH",
+    "price": 699,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/109913_large.jpg"
+  }
+],
+  "speakers": [
+  {
+    "type":"Hoparlör",
+    "brand": "Mikado",
+    "name": "Mikado MD-BT54 Kamuflaj Desenli Bluetooth-Usb -Aux -TF Card Işıklı Speaker",
+    "price": 300,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/mikado/thumb/TeoriV2-107823_large.jpg"
+  },
+  {
+    "type":"Hoparlör",
+    "brand": "JBL",
+    "name": "JBL Go 2 Bluetooth Hoparlör Sarı",
+    "price": 499,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/jbl/thumb/v2-92012-1_large.jpg"
+  },
+  {
+    "type":"Hoparlör",
+    "brand": "Sony",
+    "name": "Sony SRSXB13 EXTRA BASS™ Taşınabilir Kablosuz Hoparlör Gri-Kahve",
+    "price": 300,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/sony/thumb/126624_large.jpg"
+  }
+]
+}
